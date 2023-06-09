@@ -1,0 +1,30 @@
+[submodule "Prototype-01@1"]
+	path = Prototype-01@1
+	url = https://github.com/rizkifa4/Prototype-01_1.git
+[submodule "Prototype-01@2"]
+	path = Prototype-01@2
+	url = https://github.com/rizkifa4/Prototype-01_2.git
+[submodule "Prototype-02@1"]
+	path = Prototype-02@1
+	url = https://github.com/rizkifa4/Prototype-02_1.git
+[submodule "Prototype-02@2"]
+	path = Prototype-02@2
+	url = https://github.com/rizkifa4/Prototype-02_2.git
+[submodule "Prototype-03@1"]
+	path = Prototype-03@1
+	url = https://github.com/rizkifa4/Prototype-03_1.git
+[submodule "Prototype-03@2"]
+	path = Prototype-03@2
+	url = https://github.com/rizkifa4/Prototype-03_2.git
+[submodule "Prototype-04@1"]
+	path = Prototype-04@1
+	url = https://github.com/rizkifa4/Prototype-04_1.git
+[submodule "Prototype-04@2"]
+	path = Prototype-04@2
+	url = https://github.com/rizkifa4/Prototype-04_2.git
+[submodule "Prototype-05@1"]
+	path = Prototype-05@1
+	url = https://github.com/rizkifa4/Prototype-05_1.git
+[submodule "Prototype-05@2"]
+	path = Prototype-05@2
+	url = https://github.com/rizkifa4/Prototype-05_2.git
